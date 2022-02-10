@@ -6,6 +6,8 @@
 
 <img src="./images/Image1.png" width="160" alt="A Fresh UI" hspace="20" /> <img src="./images/Image2.png" width="160" alt="Stackable Cards" hspace="20" /> <img src="./images/Image3.png" width="160" alt="User Flow and Lottie Animations" hspace="20" />
 
+## Videos demonstrating the app's UX Design and userflow.
+
 ### The Introduction to the App's UI, various tours and React Native Components.
 
 [The App's Fresh Look](https://i.imgur.com/pELcX75.mp4)
