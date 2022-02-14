@@ -6,6 +6,8 @@
 
 <img src="./images/Image1.png" width="160" alt="A Fresh UI" hspace="20" /> <img src="./images/Image2.png" width="160" alt="Stackable Cards" hspace="20" /> <img src="./images/Image3.png" width="160" alt="User Flow and Lottie Animations" hspace="20" />
 
+### Use the username - test@test.com and password - test1234, to login. I didn't implement a signup functionality, coz I was too lazy lol.
+
 ## Videos demonstrating the app's UX Design and userflow.
 
 ### The Introduction to the App's UI, various tours and React Native Components.
