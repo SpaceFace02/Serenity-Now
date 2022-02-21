@@ -1,6 +1,6 @@
 ## Serenity-Now - An app to manage memorable vacations and time off work
 
-### This project showcases all I've learnt in React-Native. By using the guidance of a few videos and articles I've read, I built this app, with slick animations and a good UI.
+### This project showcases all I've learnt in React-Native. By using the guidance of a few videos I've watched and docs, articles I've read, I built this app, with slick animations and a slick UI with buttery smooth animations.
 
 ## Screenshots and GIFs
 
